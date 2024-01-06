@@ -1,0 +1,10 @@
+../Core/Src/music.c:14:6:music_init	1
+../Core/Src/music.c:31:6:mustorage_init	4
+../Core/Src/music.c:55:6:singing	3
+../Core/Src/music.c:71:6:music_play	5
+../Core/Src/music.c:96:6:music_start	1
+../Core/Src/music.c:109:6:music_stop	7
+../Core/Src/music.c:143:6:pwm_init	5
+../Core/Src/music.c:170:6:pwm_move	5
+../Core/Src/music.c:191:6:keyplay_init	1
+../Core/Src/music.c:198:6:key_play	3

@@ -1,0 +1,2 @@
+../Core/Src/key.c:6:6:key_init	16	static
+../Core/Src/key.c:10:6:key_deal	16	static

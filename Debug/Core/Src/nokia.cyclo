@@ -1,0 +1,8 @@
+../Core/Inc/delay.h:5:6:delay_us	2
+../Core/Src/nokia.c:5:6:LCD_init	1
+../Core/Src/nokia.c:29:6:LCD_clear	2
+../Core/Src/nokia.c:40:6:LCD_set_XY	1
+../Core/Src/nokia.c:46:6:LCD_write_char	2
+../Core/Src/nokia.c:54:6:LCD_write_number	2
+../Core/Src/nokia.c:74:6:LCD_write_english_string	2
+../Core/Src/nokia.c:85:6:LCD_write_byte	4
